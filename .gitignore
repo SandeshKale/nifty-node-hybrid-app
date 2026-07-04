@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env
+.env.local
+*.log
+local-service/config.json
+local-service/node_modules/
+local-service/kite-state.json
+local-service/kite.png
+local-service/*.lock
