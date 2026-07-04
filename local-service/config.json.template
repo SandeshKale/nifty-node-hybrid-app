@@ -1,0 +1,10 @@
+{
+  "TELEGRAM_BOT_TOKEN": "your_telegram_bot_token",
+  "TELEGRAM_CHAT_ID": "380433720",
+  "KITE_USER_ID": "HG6130",
+  "KITE_PASSWORD": "your_kite_password",
+  "KITE_TOKEN_FILE": "C:\\nifty-n8n\\.kite_token",
+  "OUTPUT_DIR": "C:\\nifty-n8n",
+  "SUPABASE_URL": "https://ajcwzwccjhcvjavcqbyj.supabase.co",
+  "SUPABASE_SERVICE_ROLE_KEY": "your_supabase_service_role_key"
+}
